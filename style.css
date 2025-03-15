@@ -1,0 +1,17 @@
+body{
+    background-color:lightgoldenrodyellow;
+}
+.content img{
+    height:200px;
+    width:200px;
+    border-radius:100px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    border:solid brown;
+    padding: 10px;
+    background-color:lightcyan;
+
+
+}
+
