@@ -66,4 +66,7 @@ h2{
 .btn-primary:hover{
     background-color:red;
 }
+.navbar-collapse{
+    display:block !important;
+}
 
