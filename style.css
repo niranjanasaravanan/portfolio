@@ -37,7 +37,7 @@ p{
 .img-fluid{
     max-width: 80%;
 }
-.col-md-14 content{
+.col-md-6 content{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -70,3 +70,12 @@ h2{
     display:block !important;
 }
 
+.card{
+    margin:15px;
+    box-shadow:0 4px 10px rgba(0,0,0,0,0.1);
+    border-radius:10px;
+}
+.card img{
+    border-top-left-radius:10px;
+    border-top-right-radius:10px;
+}
